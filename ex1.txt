@@ -1,0 +1,2 @@
+   text	   data	    bss	    dec	    hex	filename
+   2262	    640	      8	   2910	    b5e	a.out
